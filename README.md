@@ -1,2 +1,0 @@
-# poc
-Created with CodeSandbox
